@@ -131,7 +131,7 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 ## Development Tutorial
 
 ### Beginner
-#### [BlockChain Starter For Beginners]((https://prasannabrabourame.medium.com/blockchain-kickstarter-from-scratch-9a3906596cd0)) 
+#### [BlockChain Starter For Beginners](https://prasannabrabourame.medium.com/blockchain-kickstarter-from-scratch-9a3906596cd0)
 ---
 ### Intermediate
 ---
