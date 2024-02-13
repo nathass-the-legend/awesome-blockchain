@@ -130,14 +130,22 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 ---
 ## Development Tutorial
 
-
+### Beginner
+#### [BlockChain Starter For Beginners]((https://prasannabrabourame.medium.com/blockchain-kickstarter-from-scratch-9a3906596cd0)) 
+---
+### Intermediate
+---
+### Advanced
+---
 ## Related Tools
 
-### Solidity
--   [doc](https://solidity.readthedocs.io/en/develop/index.html) 
+### [Remix IDE](https://remix-project.org/) - development of smart contracts
 
-### truffle
--   [BlockChain KickStarter From Scratch](https://prasannabrabourame.medium.com/blockchain-kickstarter-from-scratch-9a3906596cd0)
+## Programming
+
+### [Solidity](https://solidity.readthedocs.io/en/develop/index.html) 
+
+
 
 ### web3.js
 -   [doc](https://web3js.readthedocs.io/en/1.0/) 
