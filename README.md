@@ -29,7 +29,6 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
 
 A: A blockchain is a distributed database with a list (that is, chain) of records (that is, blocks) linked and secured by
 digital fingerprints (that is, crypto hashes).
-Example from [`genesis_block.json`](https://github.com/yjjnls/awesome-blockchain/tree/master/src/js/genesis_block.json):
 
 ```js
 {
@@ -54,7 +53,7 @@ A: A hash e.g. `d611edb9fd86ee234cdc08d9bf382330d6ccc721cd5e59cf2a01b0a2a8decfff
 is a small digest checksum calculated
 with a one-way crypto(graphic) hash digest checksum function
 e.g. SHA256 (Secure Hash Algorithm 256 Bits)
-from the data. Example from [`crypto.js`](https://github.com/yjjnls/awesome-blockchain/blob/master/src/js/crypto.js):
+from the data. 
 
 ```js
 function calc_hash(data) {
