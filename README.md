@@ -102,8 +102,7 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
     * [Basic concepts]() - Asymmetric encryption, Digital signature, Certificate  
 
 ### Consensus
-    -->
--   **Consensus**  
+
 
 <!--
 ### Exchange
