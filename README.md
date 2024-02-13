@@ -11,11 +11,19 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
 
 - [blockchain-tech-slack](#blockchain-tech-slack)
   - [Contents](#contents)
-  - [Frequently Asked Questions (F.A.Q.s) & Answers](#frequently-asked-questions-faqs--answers)
+  - [Frequently Asked Questions (F.A.Q.s) \& Answers](#frequently-asked-questions-faqs--answers)
   - [Basic Introduction](#basic-introduction)
-  - [Development Tutorial](#DT)
-  - [Releated Tools](#releated-tools)
+  - [Development Tutorial](#development-tutorial)
+    - [Beginner](#beginner)
+      - [BlockChain Starter For Beginners](#blockchain-starter-for-beginners)
+      - [Compiling and Deploying Smart Contracts with Remix IDE](#compiling-and-deploying-smart-contracts-with-remix-ide)
+    - [Intermediate](#intermediate)
+    - [Advanced](#advanced)
+  - [Related Tools](#related-tools)
+    - [Remix IDE - development of smart contracts](#remix-ide---development-of-smart-contracts)
   - [Programming](#programming)
+    - [Solidity](#solidity)
+    - [web3.js](#web3js)
   - [Further Extension](#further-extension)
     - [Papers](#papers)
     - [Books](#books)
@@ -132,6 +140,8 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 
 ### Beginner
 #### [BlockChain Starter For Beginners](https://prasannabrabourame.medium.com/blockchain-kickstarter-from-scratch-9a3906596cd0)
+
+#### [Compiling and Deploying Smart Contracts with Remix IDE](https://github.com/nathass-the-legend/blockchain-tech-slack/blob/main/beginner-resources/deploying-contracts-Remix.md)
 ---
 ### Intermediate
 ---
