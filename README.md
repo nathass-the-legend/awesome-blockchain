@@ -13,11 +13,9 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
   - [Contents](#contents)
   - [Frequently Asked Questions (F.A.Q.s) & Answers](#frequently-asked-questions-faqs--answers)
   - [Basic Introduction](#basic-introduction)
-  - [Development Tutorial](#development-tutorial)
+  - [Development Tutorial](#DT)
   - [Releated Tools](#releated-tools)
-    - [Solidity](#solidity)
-    - [truffle](#truffle)
-    - [web3.js](#web3js)
+  - [Programming](#programming)
   - [Further Extension](#further-extension)
     - [Papers](#papers)
     - [Books](#books)
@@ -92,6 +90,9 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 - [Top 36 Blockchain Job Interview Questions & Answers](https://blockchainsfactory.com/blockchain-interview-questions/)
 
 ---
+<!--    
+### basic-introduction
+   -->
 ## Basic Introduction
 
 <!--    
@@ -99,10 +100,7 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
    -->
 
 -   **Encryption knowledge**  
-    * [Basic concepts]() - Asymmetric encryption, Digital signature, Certificate  
-
-### Consensus
-
+    * [Basic concepts](https://101blockchains.com/blockchain-cryptography/) 
 
 <!--
 ### Exchange
@@ -128,6 +126,9 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 -   **[Digital currency ranking](https://coinmarketcap.com/)**   
 
 ---
+<!--
+### DT
+    -->
 ## Development Tutorial
 
 ### Beginner
@@ -141,14 +142,14 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 
 ### [Remix IDE](https://remix-project.org/) - development of smart contracts
 
+<!--
+### programming
+    -->
 ## Programming
 
 ### [Solidity](https://solidity.readthedocs.io/en/develop/index.html) 
 
-
-
-### web3.js
--   [doc](https://web3js.readthedocs.io/en/1.0/) 
+### [web3.js](https://web3js.readthedocs.io/en/1.0/) 
 
 ---
 ## Further Extension
@@ -158,7 +159,9 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 
 
 ---
-
+<!--
+### contribute
+    -->
 ## Contribute
 
 Contributions welcome!
