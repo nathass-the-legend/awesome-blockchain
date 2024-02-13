@@ -99,26 +99,12 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
    -->
 
 -   **Encryption knowledge**  
-    * [Basic concepts](https://www.jianshu.com/p/a044b303f7d5) - Asymmetric encryption, Digital signature, Certificate  
-    * [Digital signature extension](https://www.jianshu.com/p/410e77ec23fa)  - Multi-signature, Blind signature, Group signature, Ring signature
-    * [Merkle tree](https://www.jianshu.com/p/a044b303f7d5)  
-    <!-- * [Merkle tree in blockchain](./Basic/merkle_tree_in_blockchain.md)   -->
-    * [Merkle DAG](http://www.sohu.com/a/247540268_100222281)   
-<!--   
+    * [Basic concepts]() - Asymmetric encryption, Digital signature, Certificate  
+
 ### Consensus
     -->
 -   **Consensus**  
-    * [Proof of Work](https://www.jianshu.com/p/3462f2ed74d7)
-    * [Proof of Stake](https://www.jianshu.com/p/2fd3bce523b0)
-    * [Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs) / [Chinese version](https://ethfans.org/posts/Proof-of-Stake-FAQ-new-2018-3-15)
-    * [Delegated Proof of Stake](https://www.jianshu.com/p/ccc3fff7a60d)
-    * [Practical Byzantine Fault Tolerance](https://www.jianshu.com/p/e991c1385f9f)
 
-<!--    
-### Account and transaction model
-    -->
--   **Account and transaction model**  
-    * [UTXO model](https://www.jianshu.com/p/2f4e75dbc2e4)
 <!--
 ### Exchange
     -->
@@ -128,7 +114,7 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
     -->
 -   **Applications**  
     * [Do You Need a Blockchain?](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain)  
-    * [What can't blockchain do?](https://www.jianshu.com/p/70f6a29a6296)  
+
 <!--     
 ### Governance
     -->
@@ -163,9 +149,6 @@ Note: Git uses merkelized dag (directed acyclic graph)s for its blockchains.
 
 ### Books
 
--   [**Blockchain guide**](https://yeasy.gitbooks.io/blockchain_guide/content/) by Baohua Yang, 2017 --
-    Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
-    <!-- -   [区块链原理、设计与应用](https://github.com/yjjnls/books/blob/master/block%20chain/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8E%9F%E7%90%86%E3%80%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8.pdf) -->
 
 ---
 
